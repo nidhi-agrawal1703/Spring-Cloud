@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+F:\Workspace\Spring-Cloud\08.spring-cloud-shop-ease\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3324077450.index
+\discovery-server\src\main\resources
+F:\Workspace\Spring-Cloud\08.spring-cloud-shop-ease\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\317003962.index
+\config-server\src\main\resources
